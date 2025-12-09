@@ -1,0 +1,2 @@
+<!-- insert_bottom 'body' -->
+<%= render partial: 'foreman_rh_cloud/permissions_data' %>
