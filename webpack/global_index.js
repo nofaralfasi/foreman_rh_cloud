@@ -3,6 +3,7 @@ import { registerReducers } from './ForemanRhCloudReducers';
 import { registerFills } from './ForemanRhCloudFills';
 import { registerRoutes } from './ForemanRhCloudPages';
 import hostsIndexColumnExtensions from './ForemanColumnExtensions/index';
+import './PermissionsInit';
 
 registerReducers();
 registerFills();
